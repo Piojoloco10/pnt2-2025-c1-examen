@@ -1,0 +1,43 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.main-header{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20 px;
+}
+
+.main-header h1 {
+    font-size: 2.8em;
+    margin-bottom: 10px;
+}
+
+.home-main{
+    font-size: 1.2em;
+    opacity: 0.9;
+}
+
+.btn-large{
+    display: inline-block;
+    background-color: red;
+    color: white;
+    padding: 14px 20px;
+    font-size: 1.1em;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+.btn-large:hover{
+    background-color: violet;
+}
+
+.footer{
+    background-color: white;
+    text-align: center;
+    padding: 20px 0px;
+    margin-top: 49px;
+    font-size: 0.9em;
+    color: grey;
+}
